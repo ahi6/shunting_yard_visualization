@@ -17,6 +17,8 @@ Dependencies are managed using the Nix package manager and defined in `shell.nix
 
 Useful manim and manim-slides commands are saved in the `justfile`.
 
+You are free to use this repository as a NixOS manim/manim-slides template.
+
 ### Example usage
 Run locally:
 ```just run```
