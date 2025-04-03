@@ -1,0 +1,8 @@
+/media
+/__pycache__
+/scene_assets
+/slides
+/.direnv
+/.history
+/.mypy_cache
+
