@@ -6,7 +6,11 @@ I had no regard for the maintainability of this script, as I do not intend to re
 Note: The labels are in Czech.
 
 ## Video
-*to be uploaded*
+
+
+https://github.com/user-attachments/assets/d9146414-63bd-419d-a403-60922ebc51c7
+
+
 
 ## How to run locally
 Dependencies are managed using the Nix package manager and defined in `shell.nix`. Using direnv is recommended.
